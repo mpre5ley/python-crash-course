@@ -1,1 +1,2 @@
-# Python Crash Course for teaching purposes
+# Python Crash Course 
+## 1st Edition Practice Exercises
